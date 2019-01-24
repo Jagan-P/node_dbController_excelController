@@ -1,0 +1,25 @@
+{
+  "name": "mysql",
+  "version": "1.0.0",
+  "description": "db",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "excel-export": "^0.5.1",
+    "express": "^4.16.4",
+    "json2xls": "^0.1.2",
+    "mysql": "*",
+    "nodemon": "^1.18.9",
+    "request": "^2.88.0",
+    "save-file": "^2.2.1"
+  },
+  "keywords": [
+    "db"
+  ],
+  "author": "Jagan P",
+  "license": "MIT"
+}

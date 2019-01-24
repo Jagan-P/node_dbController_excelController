@@ -1,0 +1,6 @@
+.idea/
+_build/
+_pkg/
+bower_components/
+node_modules/
+.gitconfig
